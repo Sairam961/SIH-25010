@@ -41,7 +41,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-A advice platform that runs on an AI algorithim, available via an smartphone app, SMS or in voice calls in a variety of regional languages. The system will:
+A advisory platform that runs on an AI algorithim, available via an smartphone app, SMS or in voice calls in a variety of regional languages. The system will:
 
 Keep feeding live, local weather data, satellite images and the history of crop performance to the system 24/7.
 
@@ -53,8 +53,6 @@ It also supplies market-price alarms and demand predictions to help in the best 
 
 This solution provides agronomic knowledge to small-scale farmers, gives out scientific recommendations and  are presented in an understandable manner.
 
- 
-
 ## Technical Approach
 <h3>Remove These Lines</h3>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
@@ -62,16 +60,28 @@ This solution provides agronomic knowledge to small-scale farmers, gives out sci
 <li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Quick prototype development is made possible by established machine learning frameworks and publicly available datasets (soil maps, weather archives).  Infrastructure overhead is decreased by cloud platforms such as AWS that support IoT and have serverless features.
+
+Field deployment and training are guaranteed through collaboration with regional extension services and cooperatives, distributing soil testing kits by utilising government infrastructure.
+
+For economic feasability,subscription-based model can be employed for NGOs and cooperatives, free basic advisory model for farmers through which farmers can save 15–20% on input costs by using less fertiliser and pesticide, which will offset any small service fees.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Implementing this model can potentially:
+
+Increase crop yeilds by around 20-30%.
+
+Reduce input costs by around 15-20%
+
+Enhance small farming incomes by around 20-25% annually via the suggestions provided by the model.
+
+Promote sustainable practises while empowering low literate farmers and regional farmers with the help of virtual guidance available in multiple regional languages.
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+National Bank for Agriculture and Rural Development (NABARD), “Basic Statistical Returns of Agricultural Production,” 2022.
+
+Himanshu et al., “AI-Driven Crop Advisory Systems: A Field Evaluation,” International Journal of AgriTech, Vol. 15, No. 3, 2023.
+
+Singh and Patel, “Impact of ICT-Based Advisory on Smallholder Yields in India,” Agricultural Systems, 2021.
+
+Government of India, Ministry of Agriculture & Farmers Welfare, “Soil Health Card Scheme Overview,” 2024.
