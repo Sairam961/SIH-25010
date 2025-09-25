@@ -74,8 +74,7 @@ Scikit-learn, NumPy/Pandas (for Machine Learning algorithims)
 
 PostgreSQL (for database operations)
 
-
-
+<img src="sih.jpg" alt="Flowchart" width="500">
 ## Feasibility and Viability
 Quick prototype development is made possible by established machine learning frameworks and publicly available datasets (soil maps, weather archives).  Infrastructure overhead is decreased by cloud platforms such as AWS that support IoT and have serverless features.
 
