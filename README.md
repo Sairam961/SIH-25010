@@ -54,6 +54,20 @@ It also supplies market-price alarms and demand predictions to help in the best 
 This solution provides agronomic knowledge to small-scale farmers, gives out scientific recommendations and  are presented in an understandable manner.
 
 ## Technical Approach
+Python's machine learning capabilities and Django's ecosystem are used in the Smart Crop Advisory System's Django-centric architecture.
+
+The system incorporates TensorFlow for AI-powered crop advisory services, Django Channels for real-time features and the Django's framework (REST) for the API development.
+
+So the technologies used are:
+Python 3.9+,
+Django 5.0+
+Django REST framework (DRF) 3.14+
+Django Channels
+TensorFlow 2.x
+Scikit-learn
+NumPy/Pandas (for Machine Learning algorithims)
+ 
+
 <h3>Remove These Lines</h3>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
 </li>
@@ -78,10 +92,10 @@ Enhance small farming incomes by around 20-25% annually via the suggestions prov
 Promote sustainable practises while empowering low literate farmers and regional farmers with the help of virtual guidance available in multiple regional languages.
 
 ## Research and References
-National Bank for Agriculture and Rural Development (NABARD), “Basic Statistical Returns of Agricultural Production,” 2022.
+AI – DRIVEN CROP ADVISORY SYSTEM, https://ijnrd.org/viewpaperforall.php?paper=IJNRD2503437
 
-Himanshu et al., “AI-Driven Crop Advisory Systems: A Field Evaluation,” International Journal of AgriTech, Vol. 15, No. 3, 2023.
+A comprehensive analysis of the advances in Indian Digital Agricultural architecture, https://www.sciencedirect.com/science/article/pii/S2772375523001478
 
-Singh and Patel, “Impact of ICT-Based Advisory on Smallholder Yields in India,” Agricultural Systems, 2021.
+Django's Framework, https://www.bairesdev.com/blog/diving-into-django-rest-framework/
 
-Government of India, Ministry of Agriculture & Farmers Welfare, “Soil Health Card Scheme Overview,” 2024.
+TensorFlow, https://en.wikipedia.org/wiki/TensorFlow
