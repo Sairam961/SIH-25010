@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 25-09-2025
+## Register Number: 25000694
+## Name: R.Sairam
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,10 +41,19 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+A advice platform that runs on an AI algorithim, available via an smartphone app, SMS or in voice calls in a variety of regional languages. The system will:
+
+Keep feeding live, local weather data, satellite images and the history of crop performance to the system 24/7.
+
+Process soil-test reports and user-uploaded field images with machine learning models to identify any deficiencies in crops and early signs of pest/disease.
+
+Customised advisories on choice of crops, timing of sowing, irrigation scheduling, fertiliser use and pest management.
+
+It also supplies market-price alarms and demand predictions to help in the best time of harvest and crop type selection,while also offering a voice based interactive session during which low-literate users can be assisted with alerts and prompts.
+
+This solution provides agronomic knowledge to small-scale farmers, gives out scientific recommendations and  are presented in an understandable manner.
+
+ 
 
 ## Technical Approach
 <h3>Remove These Lines</h3>
