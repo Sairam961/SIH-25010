@@ -68,16 +68,15 @@ Django REST framework (DRF) 3.14+
 
 Django Channels
 
-TensorFlow 2.x
+TensorFlow 2.x (open source Machine Learning platform)
 
 Scikit-learn
 
 NumPy/Pandas (for Machine Learning algorithims)
 
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+PostgreSQL (for database operations)
+
+
 
 ## Feasibility and Viability
 Quick prototype development is made possible by established machine learning frameworks and publicly available datasets (soil maps, weather archives).  Infrastructure overhead is decreased by cloud platforms such as AWS that support IoT and have serverless features.
@@ -103,5 +102,7 @@ AI – DRIVEN CROP ADVISORY SYSTEM, https://ijnrd.org/viewpaperforall.php?paper=
 A comprehensive analysis of the advances in Indian Digital Agricultural architecture, https://www.sciencedirect.com/science/article/pii/S2772375523001478
 
 Django's Framework, https://www.bairesdev.com/blog/diving-into-django-rest-framework/
+
+Django ORM, https://www.geeksforgeeks.org/python/django-orm-inserting-updating-deleting-data/
 
 TensorFlow, https://en.wikipedia.org/wiki/TensorFlow
