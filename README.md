@@ -70,9 +70,7 @@ Django Channels
 
 TensorFlow 2.x (open source Machine Learning platform)
 
-Scikit-learn
-
-NumPy/Pandas (for Machine Learning algorithims)
+Scikit-learn, NumPy/Pandas (for Machine Learning algorithims)
 
 PostgreSQL (for database operations)
 
