@@ -97,7 +97,7 @@ Promote sustainable practises while empowering low literate farmers and regional
 ## Research and References
 AI – DRIVEN CROP ADVISORY SYSTEM, https://ijnrd.org/viewpaperforall.php?paper=IJNRD2503437
 
-A comprehensive analysis of the advances in Indian Digital Agricultural architecture, https://www.sciencedirect.com/science/article/pii/S2772375523001478
+A comprehensive analysis of the advances in Indian Digital Agricultural architecture,   https://www.sciencedirect.com/science/article/pii/S2772375523001478
 
 Django's Framework, https://www.bairesdev.com/blog/diving-into-django-rest-framework/
 
