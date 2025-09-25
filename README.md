@@ -59,14 +59,20 @@ Python's machine learning capabilities and Django's ecosystem are used in the Sm
 The system incorporates TensorFlow for AI-powered crop advisory services, Django Channels for real-time features and the Django's framework (REST) for the API development.
 
 So the technologies used are:
+
 Python 3.9+,
+
 Django 5.0+
+
 Django REST framework (DRF) 3.14+
+
 Django Channels
+
 TensorFlow 2.x
+
 Scikit-learn
+
 NumPy/Pandas (for Machine Learning algorithims)
- 
 
 <h3>Remove These Lines</h3>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
